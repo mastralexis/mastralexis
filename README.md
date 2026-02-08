@@ -3,8 +3,8 @@
 **`Undergraduate student at Harokopio University of Athens`**
 
 
-<div align="center">
-  <img width="200" src="ps2Bios.gif" alt="PS2 Bios Animation" width="100%" />
+<div align="left">
+  <img src="ps2Bios.gif" alt="PS2 Bios Animation" width="50%" />
 </div>
 
 ---
