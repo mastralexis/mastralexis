@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <img src="ps2Bios.gif" alt="PS2 Bios Animation" width="100%" />
+  <img width="200" src="ps2Bios.gif" alt="PS2 Bios Animation" width="100%" />
 </div>
 
 ---
