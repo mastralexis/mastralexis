@@ -3,7 +3,9 @@
 **`Undergraduate student at Harokopio University of Athens`**
 
 
-![[ps2Bios.gif]]
+<div align="center">
+  <img src="ps2Bios.gif" alt="PS2 Bios Animation" width="100%" />
+</div>
 
 ---
 ### Languages and Tools
