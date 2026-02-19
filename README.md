@@ -24,7 +24,9 @@ Undergraduate student at Harokopio University of Athens with a primary focus on 
 	<img align="left" alt="Vim" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg"/>
 	<img align="left" alt="LibGDX" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/libgdx/libgdx-original.svg" />
 </div>
-<br><br>
+<br>
+<br>
+<br>
 
 ---
 
