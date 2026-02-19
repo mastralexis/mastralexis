@@ -5,7 +5,7 @@ Undergraduate student at Harokopio University of Athens with a primary focus on 
 - **Currently tinkering with**: [**JGEngine**](https://github.com/mastralexis/JGEngine.git)—a side project where I am building a custom 2D game engine in Java. I am experimenting with a component-based architecture, utilizing the LibGDX framework to handle the multimedia heavy lifting (graphics, input, and file I/O) so I can focus purely on the core system design.
 
 <div align="center">
-  <img src="ps2Bios.gif" alt="PS2 Bios Animation" width="50%" />
+  <img src="ps2Bios.gif" alt="PS2 Bios Animation" width="40%" />
 </div>
 
 ---
