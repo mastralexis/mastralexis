@@ -2,8 +2,6 @@
 
 Undergraduate student at Harokopio University of Athens with a primary focus on software architecture and system design. My academic background has provided me with a solid foundation across multiple programming paradigms, including both imperative approaches ( object oriented and procedural) and declarative approaches (functional and logic programming). I apply this broad technical perspective to design and build clean, well-structured, and scalable software.
 
-- **Currently tinkering with**: [**JGEngine**](https://github.com/mastralexis/JGEngine.git)—a side project where I am building a custom 2D game engine in Java. I am experimenting with a component-based architecture, utilizing the LibGDX framework to handle the multimedia heavy lifting (graphics, input, and file I/O) so I can focus purely on the core system design.
-
 <div align="center">
   <img src="ps2Bios.gif" alt="PS2 Bios Animation" width="40%" />
 </div>
